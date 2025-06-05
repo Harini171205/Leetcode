@@ -1,7 +1,6 @@
 class Solution(object):
     def minimumOperations(self, nums):
         temp=0
-        l=len(nums)
         for i in nums:
             if(i%3!=0):
                 t=i-1
