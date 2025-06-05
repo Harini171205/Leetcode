@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Harini171205/Leetcode/tree/master/0191-number-of-1-bits) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Harini171205/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
