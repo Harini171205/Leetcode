@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Harini171205/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Harini171205/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Harini171205/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harini171205/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
