@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1293-three-consecutive-odds](https://github.com/Harini171205/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Harini171205/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Harini171205/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Harini171205/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
