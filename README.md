@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/Harini171205/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1656-count-good-triplets](https://github.com/Harini171205/Leetcode/tree/master/1656-count-good-triplets) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Harini171205/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2122-count-special-quadruplets](https://github.com/Harini171205/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Harini171205/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Harini171205/Leetcode/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/Harini171205/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Harini171205/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Sorting
