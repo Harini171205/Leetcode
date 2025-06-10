@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Harini171205/Leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Harini171205/Leetcode/tree/master/0292-nim-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harini171205/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Harini171205/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Harini171205/Leetcode/tree/master/0292-nim-game) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Harini171205/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
