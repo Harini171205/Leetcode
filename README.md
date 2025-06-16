@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harini171205/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1293-three-consecutive-odds](https://github.com/Harini171205/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Harini171205/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1656-count-good-triplets](https://github.com/Harini171205/Leetcode/tree/master/1656-count-good-triplets) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harini171205/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Harini171205/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
@@ -65,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Harini171205/Leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harini171205/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
