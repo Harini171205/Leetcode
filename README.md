@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Harini171205/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Harini171205/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Harini171205/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1205-defanging-an-ip-address](https://github.com/Harini171205/Leetcode/tree/master/1205-defanging-an-ip-address) |
 ## Simulation
 |  |
 | ------- |
