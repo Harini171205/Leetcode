@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harini171205/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harini171205/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Harini171205/Leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Harini171205/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harini171205/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0605-can-place-flowers](https://github.com/Harini171205/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Harini171205/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Harini171205/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Harini171205/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## String
 |  |
