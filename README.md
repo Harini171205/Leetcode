@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harini171205/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Harini171205/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harini171205/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0605-can-place-flowers](https://github.com/Harini171205/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Harini171205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1293-three-consecutive-odds](https://github.com/Harini171205/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Harini171205/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harini171205/Leetcode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Harini171205/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Harini171205/Leetcode/tree/master/0917-boats-to-save-people) |
 ## String Matching
 |  |
