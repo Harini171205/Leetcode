@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Harini171205/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Harini171205/Leetcode/tree/master/0231-power-of-two) |
 ## Database
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harini171205/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Harini171205/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Harini171205/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Harini171205/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Harini171205/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/Harini171205/Leetcode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harini171205/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Harini171205/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Harini171205/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
