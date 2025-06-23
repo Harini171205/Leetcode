@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harini171205/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Harini171205/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Harini171205/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Harini171205/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harini171205/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Harini171205/Leetcode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Harini171205/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -140,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Harini171205/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Harini171205/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harini171205/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
