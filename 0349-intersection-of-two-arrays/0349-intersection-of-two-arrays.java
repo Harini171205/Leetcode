@@ -5,12 +5,14 @@ class Solution {
         for(int val : nums1){
             set1.add(val);
         }
+        Set<Integer> set2 = new HashSet<>();
         for(int val : nums2){
-            if(set1.contains(val)) res.add(val);
+            set2.add(val);
         }
-        int result[] = new int[res.size()];
+        set1.retainAll(set2);
+        int result[] = new int[set1.size()];
         int i =0;
-        for(int val : res){
+        for(int val : set1){
             result[i++]=val;
         }
         return result;
