@@ -5,7 +5,6 @@ class Solution {
         for(int val : nums1){
             set1.add(val);
         }
-        Set<Integer> set2 = new HashSet<>();
         for(int val : nums2){
             if(set1.contains(val)) res.add(val);
         }
