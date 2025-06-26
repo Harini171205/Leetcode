@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Harini171205/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Harini171205/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harini171205/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Harini171205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Harini171205/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Harini171205/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/Harini171205/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Harini171205/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Harini171205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/Harini171205/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2122-count-special-quadruplets](https://github.com/Harini171205/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Harini171205/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harini171205/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Harini171205/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Harini171205/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Harini171205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Harini171205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Harini171205/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Enumeration
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Harini171205/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Harini171205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Harini171205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Harini171205/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Brainteaser
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Harini171205/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harini171205/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harini171205/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Harini171205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
