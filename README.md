@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Harini171205/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Harini171205/Leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Harini171205/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Harini171205/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Harini171205/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harini171205/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Harini171205/Leetcode/tree/master/0412-fizz-buzz) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Harini171205/Leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Harini171205/Leetcode/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
