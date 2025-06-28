@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harini171205/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Harini171205/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Harini171205/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Harini171205/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Harini171205/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Harini171205/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Harini171205/Leetcode/tree/master/0326-power-of-three) |
