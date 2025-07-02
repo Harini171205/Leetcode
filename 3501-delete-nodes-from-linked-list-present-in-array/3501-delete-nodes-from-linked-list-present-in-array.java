@@ -12,12 +12,17 @@ class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
         if (head == null || nums.length == 0) return head;
 
-        HashSet<Integer> set = new HashSet<>();
+        int max = -1;
         for (int n : nums) {
-            set.add(n);
+            if (n > max) max = n;
         }
 
-        while (head != null && set.contains(head.val)) {
+        boolean[] arr = new boolean[max + 1];
+        for (int n : nums) {
+            arr[n] = true;
+        }
+
+        while (head != null && head.val <= max && arr[head.val]) {
             head = head.next;
         }
 
@@ -25,7 +30,7 @@ class Solution {
 
         ListNode tptr = head;
         while (tptr != null && tptr.next != null) {
-            if (set.contains(tptr.next.val)) {
+            if (tptr.next.val <= max && arr[tptr.next.val]) {
                 tptr.next = tptr.next.next;
             } else {
                 tptr = tptr.next;
