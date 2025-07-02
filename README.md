@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Harini171205/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harini171205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Harini171205/Leetcode/tree/master/0917-boats-to-save-people) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Harini171205/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Harini171205/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
@@ -188,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harini171205/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Harini171205/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harini171205/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Harini171205/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
