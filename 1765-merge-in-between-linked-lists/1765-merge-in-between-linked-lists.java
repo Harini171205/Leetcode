@@ -21,9 +21,9 @@
 class Solution {
     public ListNode mergeInBetween(ListNode list1, int a, int b, ListNode list2) {
         ListNode tptr1 = list1;
-        for(int i =0;i<a-1;i++){
+        for(int i =0;i<a-1;i++)
             tptr1=tptr1.next;
-        }     
+        
         ListNode tptr2 = list1;
         for(int i =0;i<b+1;i++)
         tptr2=tptr2.next;
