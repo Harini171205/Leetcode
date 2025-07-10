@@ -9,7 +9,7 @@ int s;
     }
     
     public int add(int val) {
-     pq.add(val);
+     pq.offer(val);
      if(pq.size()>s){
         pq.poll();
      }
