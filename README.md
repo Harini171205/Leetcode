@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Harini171205/Leetcode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Harini171205/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Harini171205/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Harini171205/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Harini171205/Leetcode/tree/master/0342-power-of-four) |
 ## Database
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Harini171205/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Harini171205/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harini171205/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Harini171205/Leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Harini171205/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Harini171205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/Harini171205/Leetcode/tree/master/0605-can-place-flowers) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Harini171205/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Harini171205/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Harini171205/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Harini171205/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Harini171205/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Harini171205/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Harini171205/Leetcode/tree/master/0326-power-of-three) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Harini171205/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Harini171205/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Harini171205/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harini171205/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harini171205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harini171205/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Harini171205/Leetcode/tree/master/0782-jewels-and-stones) |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Harini171205/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Harini171205/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harini171205/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harini171205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Harini171205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Harini171205/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Harini171205/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harini171205/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harini171205/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Harini171205/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harini171205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
