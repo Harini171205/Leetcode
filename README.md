@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harini171205/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Harini171205/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Harini171205/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Harini171205/Leetcode/tree/master/0039-combination-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harini171205/Leetcode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/Harini171205/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Harini171205/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Harini171205/Leetcode/tree/master/0217-contains-duplicate) |
