@@ -5,6 +5,5 @@ class Solution {
                 nums1[i]=nums2[c++];
         }
         Arrays.sort(nums1);
-        System.out.print(nums1);
     }
 }
