@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Harini171205/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/Harini171205/Leetcode/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/Harini171205/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/Harini171205/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Harini171205/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2122-count-special-quadruplets](https://github.com/Harini171205/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Harini171205/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Harini171205/Leetcode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/Harini171205/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Greedy
 |  |
 | ------- |
