@@ -14,13 +14,11 @@
  * }
  */
 class Solution {
-    boolean fun(TreeNode tptr1, TreeNode tptr2 ){
-        if(tptr1==null && tptr2==null) return true;
-        if((tptr1==null && tptr2!=null) || (tptr1!=null && tptr2==null)) return false;
-        if(tptr1.val!=tptr2.val) return false;
-        return fun(tptr1.left,tptr2.left) & fun(tptr1.right,tptr2.right);
-    }
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        return fun(p,q);
+        if(p==null && q==null) return true;
+        if(p==null || q==null) return false;
+        if(p.val!=q.val) return false;
+
+        return isSameTree(p.left,q.left) && isSameTree(p.right,q.right);
     }
 }
