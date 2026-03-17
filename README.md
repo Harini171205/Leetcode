@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harini171205/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Harini171205/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Harini171205/Leetcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/Harini171205/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Harini171205/Leetcode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harini171205/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Harini171205/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harini171205/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Harini171205/Leetcode/tree/master/0041-first-missing-positive) |
 | [0142-linked-list-cycle-ii](https://github.com/Harini171205/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Harini171205/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Harini171205/Leetcode/tree/master/0217-contains-duplicate) |
