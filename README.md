@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Harini171205/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/Harini171205/Leetcode/tree/master/1656-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/Harini171205/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Harini171205/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/Harini171205/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Harini171205/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Harini171205/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Harini171205/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Harini171205/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Harini171205/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Harini171205/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## String
 |  |
 | ------- |
