@@ -1,7 +1,7 @@
 class Solution {
     public int largestAltitude(int[] gain) {
         int sum=0;
-        int ans = Integer.MIN_VALUE;
+        int ans = 0;
         for(int i=0;i<gain.length;i++){
             sum+=gain[i];
             gain[i]=sum;
@@ -9,7 +9,7 @@ class Solution {
                 ans = gain[i];
             }
         }
-        if(ans<0) ans =0;
+        // if(ans<0) ans =0;
         return ans;
     }
 }
