@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Harini171205/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/Harini171205/Leetcode/tree/master/1127-last-stone-weight) |
 | [1293-three-consecutive-odds](https://github.com/Harini171205/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Harini171205/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Harini171205/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Harini171205/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1603-running-sum-of-1d-array](https://github.com/Harini171205/Leetcode/tree/master/1603-running-sum-of-1d-array) |
