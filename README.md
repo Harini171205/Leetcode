@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Harini171205/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Harini171205/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Harini171205/Leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Harini171205/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Harini171205/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harini171205/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Harini171205/Leetcode/tree/master/0268-missing-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Harini171205/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Harini171205/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Harini171205/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Harini171205/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Harini171205/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harini171205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harini171205/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Harini171205/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Harini171205/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Harini171205/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Harini171205/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Harini171205/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Harini171205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/Harini171205/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Harini171205/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harini171205/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Graph
 |  |
@@ -349,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harini171205/Leetcode/tree/master/0042-trapping-rain-water) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Harini171205/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
