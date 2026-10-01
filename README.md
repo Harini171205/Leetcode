@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Harini171205/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Harini171205/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Harini171205/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Harini171205/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2122-count-special-quadruplets](https://github.com/Harini171205/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Harini171205/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Harini171205/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
